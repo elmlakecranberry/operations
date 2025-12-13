@@ -1,8 +1,12 @@
-# Elm Lake Cranberry Operations
+# Elm Lake Cranberry Operations Handbook
 
-This repository is the execution layer of Elm Lake Cranberry. It documents **how work is done**—not who decides, not why we do it, and not what policies govern us.
+This is the Operations Handbook for Elm Lake Cranberry.
 
-## What This Repo Contains
+**Start here if you're unsure where to look.** This handbook documents **how work is done**—the procedures, checklists, and systems that keep daily operations running.
+
+---
+
+## What This Handbook Contains
 
 - **SOPs** – Step-by-step procedures for recurring tasks
 - **Checklists** – Practical execution aids for daily and seasonal work
@@ -10,7 +14,7 @@ This repository is the execution layer of Elm Lake Cranberry. It documents **how
 - **Runbooks** – Situation-based guides for time-sensitive scenarios
 - **Templates** – Blank forms for creating new procedures
 
-## What This Repo Does NOT Contain
+## What This Handbook Does NOT Contain
 
 - Authority or decision rights
 - Policies or governance documents
@@ -18,17 +22,17 @@ This repository is the execution layer of Elm Lake Cranberry. It documents **how
 - Scorecards or performance metrics
 - Strategic decisions
 
-Those belong in the **management repository**. This repo executes; management governs.
+Those belong to management. This handbook covers execution, not governance.
 
-## Relationship to the Management Repo
+## Relationship to Management
 
-The management repo defines **what** we do and **who** decides. This repo defines **how** we carry it out.
+Management decides **what** we do and **who** decides. This handbook documents **how** we carry it out.
 
-If there is ever a conflict between this repo and the management repo, defer to management. Policies set there take precedence over procedures documented here.
+If there is ever a conflict between this handbook and a management decision, defer to management. Management decisions take precedence over procedures documented here.
 
-This repo may reference policies abstractly (e.g., "per the safety policy") but does not restate them.
+This handbook may reference policies (e.g., "per the safety policy") but does not restate them.
 
-## How This Repo Works
+## How This Handbook Works
 
 - Procedures are expected to change frequently
 - Clarity and practicality matter more than elegance
@@ -59,7 +63,7 @@ This repo may reference policies abstractly (e.g., "per the safety policy") but 
 └── archive/             # Deprecated procedures (preserved)
 ```
 
-## Who This Repo Is For
+## Who This Handbook Is For
 
 Managers and operators who need to know how things work. Not executives reviewing strategy. Not auditors checking compliance. People doing the work.
 
@@ -70,3 +74,9 @@ Managers and operators who need to know how things work. Not executives reviewin
 - Review procedures periodically—at minimum, annually
 - When a procedure is no longer valid, move it to `/archive/`
 - Keep it practical. Write like you're explaining to someone who will do this tomorrow.
+
+---
+
+## Technical Notes (for maintainers)
+
+This handbook is stored as a Git repository. Changes are tracked through version control, which preserves history and allows rollback if needed. The folder structure above reflects the actual directory layout in the repository.
