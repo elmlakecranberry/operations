@@ -1,1 +1,98 @@
+# Elm Lake Cranberry Operations Handbook
+# .gitignore – exclude local, generated, and viewer-specific artifacts
+
+# =============================================================================
+# Editor and Viewer State
+# =============================================================================
+
+# Obsidian
 .obsidian/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.#*
+
+# =============================================================================
+# Operating System Artifacts
+# =============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# =============================================================================
+# Temporary and Local Working Files
+# =============================================================================
+
+# Temporary directories
+tmp/
+temp/
+.cache/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Log files
+*.log
+logs/
+
+# =============================================================================
+# Generated Export Formats
+# =============================================================================
+
+# PDF exports
+*.pdf
+
+# Microsoft Office exports
+*.docx
+*.xlsx
+*.pptx
+
+# =============================================================================
+# Environment and Secret Files
+# =============================================================================
+
+# Environment files
+.env
+.env.*
+
+# Keys and certificates
+*.key
+*.pem
+*.crt
+
+# Secrets directory
+secrets/
+
+# =============================================================================
+# Tooling and Scratch Directories
+# =============================================================================
+
+# AI working directories
+.ai/
+.prompts/
+
+# Scratch / draft directories
+.scratch/
+.drafts/
