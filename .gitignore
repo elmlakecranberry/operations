@@ -91,6 +91,7 @@ secrets/
 
 # AI working directories
 .ai/
+.claude/
 .prompts/
 
 # Scratch / draft directories
