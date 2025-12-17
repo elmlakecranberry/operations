@@ -19,6 +19,6 @@ Procedures for preparing for and responding to frost events.
 
 ## Related Folders
 
-- `/sop/irrigation/` – Water system operation
+- `/sops/irrigation/` – Water system operation
 - `/runbooks/` – Frost event response guide
 - `/checklists/` – Quick reference for frost nights

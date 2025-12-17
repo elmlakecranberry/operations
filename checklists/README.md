@@ -45,5 +45,5 @@ Checklists may be printed for field use. Keep formatting simple—avoid complex 
 
 ## Related Folders
 
-- `/sop/` – Detailed procedures behind the checklists
+- `/sops/` – Detailed procedures behind the checklists
 - `/templates/checklist-template.md` – Template for new checklists

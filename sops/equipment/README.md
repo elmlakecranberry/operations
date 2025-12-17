@@ -19,5 +19,5 @@ Procedures for operating, starting up, shutting down, and caring for equipment.
 
 ## Related Folders
 
-- `/sop/maintenance/` – Routine maintenance tasks
+- `/sops/maintenance/` – Routine maintenance tasks
 - `/checklists/` – Quick reference checklists for daily use

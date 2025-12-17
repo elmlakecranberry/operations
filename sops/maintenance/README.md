@@ -19,5 +19,5 @@ Procedures for routine maintenance tasks on equipment, facilities, and infrastru
 
 ## Related Folders
 
-- `/sop/equipment/` – Equipment operation procedures
+- `/sops/equipment/` – Equipment operation procedures
 - `/checklists/` – Maintenance checklists

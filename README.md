@@ -44,7 +44,7 @@ This handbook may reference policies (e.g., "per the safety policy") but does no
 
 ```
 /operations
-├── sop/                 # Standard operating procedures
+├── sops/                # Standard operating procedures
 │   ├── safety/
 │   ├── equipment/
 │   ├── irrigation/

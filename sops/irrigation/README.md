@@ -19,5 +19,5 @@ Procedures for water management, irrigation system operation, and water control 
 
 ## Related Folders
 
-- `/sop/frost-protection/` – Water use during frost events
+- `/sops/frost-protection/` – Water use during frost events
 - `/runbooks/` – Emergency water management scenarios

@@ -20,6 +20,6 @@ Procedures for harvest operations, equipment coordination, and delivery logistic
 
 ## Related Folders
 
-- `/sop/equipment/` – Equipment operation details
-- `/sop/irrigation/` – Water management
+- `/sops/equipment/` – Equipment operation details
+- `/sops/irrigation/` – Water management
 - `/checklists/` – Daily harvest checklists
