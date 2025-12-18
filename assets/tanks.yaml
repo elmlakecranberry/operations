@@ -1,0 +1,17 @@
+# Tanks inventory
+# Fuel, water, and chemical storage at Elm Lake Cranberry
+
+tanks: []
+
+# Example entry:
+# - id: propane-01
+#   name: Main Propane Tank
+#   location: main-shop
+#   contents: propane
+#   capacity: 1000
+#   capacity_unit: gallons
+#   ownership: leased
+#   supplier: ""
+#   last_inspection: ""
+#   status: active
+#   notes: ""

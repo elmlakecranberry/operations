@@ -1,0 +1,16 @@
+# Buildings inventory
+# Structures at Elm Lake Cranberry
+
+buildings: []
+
+# Example entry:
+# - id: main-shop
+#   name: Main Shop
+#   type: shop
+#   primary_use: Equipment storage and repair
+#   heating_system: propane
+#   cooling_system: none
+#   electricity: true
+#   water: well
+#   critical_systems: []
+#   notes: ""

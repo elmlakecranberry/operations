@@ -1,0 +1,16 @@
+# Land parcels inventory
+# Parcels owned or leased by Elm Lake Cranberry
+
+parcels: []
+
+# Example entry:
+# - id: parcel-01
+#   name: Home Marsh
+#   tax_key: ""
+#   acres: 40.0
+#   municipality: ""
+#   ownership: owned
+#   primary_use: cranberry-beds
+#   zoning: ""
+#   access: ""
+#   notes: ""

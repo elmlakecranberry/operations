@@ -6,14 +6,14 @@ Tracked work for the Elm Lake Cranberry Operations Handbook.
 
 ## Asset Inventories
 
-- [ ] Populate buildings.md with all structures
-- [ ] Populate vehicles.md with all trucks, tractors, ATVs, trailers
-- [ ] Populate equipment.md with all implements, harvesters, sprayers
-- [ ] Populate pumps.md with all irrigation and drainage pumps
-- [ ] Populate wells.md with all water supply wells
-- [ ] Populate tanks.md with all fuel, water, and chemical tanks
-- [ ] Populate parcels.md with all land parcels
-- [ ] Populate tax-assessments.md with current assessments and payment schedule
+- [ ] Populate buildings.yaml with all structures
+- [ ] Populate vehicles.yaml with all trucks, tractors, ATVs, trailers
+- [ ] Populate equipment.yaml with all implements, harvesters, sprayers
+- [ ] Populate pumps.yaml with all irrigation and drainage pumps
+- [ ] Populate wells.yaml with all water supply wells
+- [ ] Populate tanks.yaml with all fuel, water, and chemical tanks
+- [ ] Populate parcels.yaml with all land parcels
+- [ ] Populate tax-assessments.yaml with current assessments and payment schedule
 - [ ] Cross-reference tanks with fuel-and-power-coordination.md
 
 ## Energy Audit

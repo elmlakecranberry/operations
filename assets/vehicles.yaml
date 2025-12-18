@@ -1,0 +1,17 @@
+# Vehicles inventory
+# Trucks, tractors, ATVs, trailers at Elm Lake Cranberry
+
+vehicles: []
+
+# Example entry:
+# - id: truck-01
+#   name: Red Truck
+#   type: truck
+#   year: 2018
+#   make: Ford
+#   model: F-250
+#   fuel_type: diesel
+#   primary_use: General farm transport
+#   licensed: true
+#   status: active
+#   notes: ""

@@ -1,0 +1,17 @@
+# Wells inventory
+# Water supply wells at Elm Lake Cranberry
+
+wells: []
+
+# Example entry:
+# - id: well-01
+#   name: Main Well
+#   location: ""
+#   type: drilled
+#   depth_ft: 200
+#   capacity_gpm: 100
+#   primary_use: irrigation
+#   permit_number: ""
+#   pump_installed: true
+#   status: active
+#   notes: ""

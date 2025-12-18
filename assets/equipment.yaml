@@ -1,0 +1,16 @@
+# Equipment inventory
+# Implements, harvesters, sprayers at Elm Lake Cranberry
+
+equipment: []
+
+# Example entry:
+# - id: harvester-01
+#   name: Main Harvester
+#   type: harvester
+#   make: ""
+#   model: ""
+#   power_source: pto
+#   primary_use: Wet harvest
+#   attached_to: tractor-01
+#   status: active
+#   notes: ""

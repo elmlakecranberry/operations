@@ -29,14 +29,14 @@ Physical things that:
 
 ## Files
 
-- [buildings.md](buildings.md) — Structures, shops, storage
-- [vehicles.md](vehicles.md) — Trucks, tractors, ATVs, trailers
-- [equipment.md](equipment.md) — Implements, harvesters, sprayers
-- [pumps.md](pumps.md) — Irrigation and drainage pumps
-- [wells.md](wells.md) — Water supply wells
-- [tanks.md](tanks.md) — Fuel, water, and chemical storage
-- [parcels.md](parcels.md) — Land parcels owned or leased
-- [tax-assessments.md](tax-assessments.md) — Property tax and assessment records
+- [buildings.yaml](buildings.yaml) — Structures, shops, storage
+- [vehicles.yaml](vehicles.yaml) — Trucks, tractors, ATVs, trailers
+- [equipment.yaml](equipment.yaml) — Implements, harvesters, sprayers
+- [pumps.yaml](pumps.yaml) — Irrigation and drainage pumps
+- [wells.yaml](wells.yaml) — Water supply wells
+- [tanks.yaml](tanks.yaml) — Fuel, water, and chemical storage
+- [parcels.yaml](parcels.yaml) — Land parcels owned or leased
+- [tax-assessments.yaml](tax-assessments.yaml) — Property tax and assessment records
 
 ## Relationship to Other Documents
 

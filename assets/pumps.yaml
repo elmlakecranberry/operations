@@ -1,0 +1,17 @@
+# Pumps inventory
+# Irrigation and drainage pumps at Elm Lake Cranberry
+
+pumps: []
+
+# Example entry:
+# - id: pump-01
+#   name: Main Irrigation Pump
+#   location: pump-house-1
+#   type: centrifugal
+#   power_source: electric
+#   hp: 50
+#   capacity_gpm: 1500
+#   primary_function: irrigation
+#   backup_available: false
+#   status: active
+#   notes: ""
